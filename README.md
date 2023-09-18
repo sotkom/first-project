@@ -23,5 +23,5 @@ mkdir my_project
 cd my_project
 git init
 ```
-[markdown](https://www.markdownguide.org/cheat-sheet/)
+[markdown](https://www.markdownguide.org/cheat-sheet/)  
 [шпаргалка на GitHub](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
